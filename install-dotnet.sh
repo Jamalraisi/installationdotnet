@@ -8,7 +8,7 @@ sudo apt install -y wget apt-transport-https software-properties-common
 wget https://packages.microsoft.com/config/ubuntu/22.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
 sudo dpkg -i packages-microsoft-prod.deb
 
-# Install .NET SDK 7.0
+# Install .NET SDK 8.0
 sudo apt update
 sudo apt install -y dotnet-sdk-7.0
 
