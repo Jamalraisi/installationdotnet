@@ -10,7 +10,7 @@ sudo dpkg -i packages-microsoft-prod.deb
 
 # Install .NET SDK 8.0
 sudo apt update
-sudo apt install -y dotnet-sdk-7.0
+sudo apt install -y dotnet-sdk-8.0
 
 # Install .NET Runtime 7.0 (this ensures the runtime is also installed)
 sudo apt install -y dotnet-runtime-7.0
