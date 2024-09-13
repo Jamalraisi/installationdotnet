@@ -15,4 +15,4 @@ sudo apt install -y dotnet-sdk-8.0
 # Install .NET Runtime 7.0 (this ensures the runtime is also installed)
 sudo apt install -y dotnet-runtime-7.0
 
-echo ".NET SDK 7.0 and Runtime 7.0 installed successfully!"
+echo ".NET SDK 8.0 and Runtime 7.0 installed successfully!"
