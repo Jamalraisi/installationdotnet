@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Update package list and install required dependencies
+## Update package list and install required dependencies
 sudo apt update
 sudo apt install -y wget apt-transport-https software-properties-common
 
